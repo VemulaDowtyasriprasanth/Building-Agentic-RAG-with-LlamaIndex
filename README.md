@@ -1,4 +1,4 @@
-### GitHub README File for Building Agentic RAG with LlamaIndex Project
+### Building Agentic RAG with LlamaIndex Project
 
 #### Project Overview
 This repository contains the source code and documentation for the project completed during the "Building Agentic RAG with LlamaIndex" course offered by DeepLearning.AI. The project involved creating sophisticated AI agents capable of understanding and processing documents using the LlamaIndex framework. Each lesson built progressively on knowledge and skills to design and implement complex AI solutions.
